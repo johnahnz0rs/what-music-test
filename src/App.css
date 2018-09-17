@@ -1,0 +1,120 @@
+/*.App {*/
+  /*text-align: center;*/
+/*}*/
+
+/*.App-logo {*/
+  /*animation: App-logo-spin infinite 20s linear;*/
+  /*height: 80px;*/
+/*}*/
+
+/*.App-header {*/
+  /*background-color: #222;*/
+  /*height: 150px;*/
+  /*padding: 20px;*/
+  /*color: white;*/
+/*}*/
+
+/*.App-title {*/
+  /*font-size: 1.5em;*/
+/*}*/
+
+/*.App-intro {*/
+  /*font-size: large;*/
+/*}*/
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* Login.js */
+.logo {
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: 20px auto 10px auto;
+}
+.blurb {
+    width: 60%;
+    margin: 20px auto;
+}
+/* end Login.js */
+
+
+
+
+
+.greeting-header {
+    display: inline-block;
+    width: 95%;
+}
+.btn-prof-find-common {
+    width: 95%;
+    margin: 0 auto;
+}
+.displayProfileOrMatch {
+    width: 95%;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+.show-artist-genre-song {
+    margin: 0 auto;
+    width: 95%;
+}
+.search-email {
+    width: 95%;
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+}
+.btn-submit-search {
+    width: 95%;
+    display: block;
+    margin: 0 auto;
+}
+.side-by-side {
+    border: 1px solid black;
+    width: 40%;
+    margin: 0 auto;
+    display: inline-block;
+}
+.display-common {
+    margin: 0 auto;
+    text-align: center;
+}
+.display-inline {
+    display: inline-block;
+}
+.my-left-col {
+    border: 1px solid black;
+    margin: 10px;
+    width: 40%;
+    display: inline-block;
+}
+.my-right-col {
+    border: 1px solid black;
+    margin: 10px;
+    width: 40%;
+    display: inline-block;
+}
+
+.center-list {
+    text-align: center;
+    list-style: inside;
+}
+.btn {
+    margin-right: 10px;
+}
+
+
+/* Misc Font Styles */
+.underline-text {
+    text-decoration: underline;
+}
+.bold-text {
+    font-weight: bold;
+}
+.blue-text {
+    color: blue;
+}
+/* end Misc & Font Styles */
